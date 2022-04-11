@@ -1,2 +1,3 @@
-- [x] step one
-- [ ] step two
+- [x] Found a repository that generated passwords 12-16 characters with capitalization, special characters, and numbers
+- [ ] begin code for password generator
+- [ ] Add commit messages while scripting the password generator
