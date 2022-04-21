@@ -7,3 +7,5 @@ chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXXYZ~`!@#$%^&*()_-+={[
 number = input('Amount of passwords to generate: ')
 number = int(number)
 
+length = input('Input desired password length: ')
+length = int(length)
