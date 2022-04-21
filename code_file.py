@@ -14,4 +14,7 @@ print('\nhere are your passwords: ')
 
 for pwd in range(number):
     passwords = ''
+    for c in range(length):
+        passwords += random.choice(chars)
+    print(passwords)
     
