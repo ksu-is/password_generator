@@ -9,3 +9,5 @@ number = int(number)
 
 length = input('Input desired password length: ')
 length = int(length)
+
+print('\nhere are your passwords: ')
