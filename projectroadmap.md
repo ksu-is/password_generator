@@ -5,6 +5,6 @@
 - [x] Each person should have explored at least one existing Python code based related to their project to evaluate using it in their project.
 - [x] In evaluating your codebase, you should have read the code and attempted to run it yourself.
 # Sprint 2
-- [x] Create a .py file for password_generator code
+- [x] Create a .py file for the repository to build code
 - [x] Begin writing code, adding commits periodically
 - [x] Create at least 6 commits with detailed comments
