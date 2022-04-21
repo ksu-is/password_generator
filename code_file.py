@@ -11,3 +11,7 @@ length = input('Input desired password length: ')
 length = int(length)
 
 print('\nhere are your passwords: ')
+
+for pwd in range(number):
+    passwords = ''
+    
