@@ -8,3 +8,6 @@
 - [x] Create a .py file for the repository to build code
 - [x] Begin writing code, adding commits periodically
 - [x] Create at least 6 commits with detailed comments
+# Sprint 3
+- [x] Design a powerpoint slide presenting the Password Generator
+- [x] Upload slide to repository in Github
